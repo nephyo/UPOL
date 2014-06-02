@@ -1,6 +1,6 @@
 UPOL
 ====
-There, what you see, is my currently skills with programming language C.
+There, what you see, are my currently skills with programming language C.
 It's free for sharing.
 
 TROLOLO
